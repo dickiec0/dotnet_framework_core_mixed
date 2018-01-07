@@ -1,0 +1,4 @@
+D:\Code\Projects\TestApp\FrameworkLib\bin\Debug\FrameworkLib.dll
+D:\Code\Projects\TestApp\FrameworkLib\bin\Debug\FrameworkLib.pdb
+D:\Code\Projects\TestApp\FrameworkLib\obj\Debug\FrameworkLib.dll
+D:\Code\Projects\TestApp\FrameworkLib\obj\Debug\FrameworkLib.pdb

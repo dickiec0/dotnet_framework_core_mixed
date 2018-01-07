@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp.csproj", "{DEB5D56F-9AF1-4E96-A711-77B94CBC4590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkLib", "..\FrameworkLib\FrameworkLib.csproj", "{EE349472-A2CC-4FEA-89AE-429EF4CE3E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEB5D56F-9AF1-4E96-A711-77B94CBC4590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB5D56F-9AF1-4E96-A711-77B94CBC4590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB5D56F-9AF1-4E96-A711-77B94CBC4590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB5D56F-9AF1-4E96-A711-77B94CBC4590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE349472-A2CC-4FEA-89AE-429EF4CE3E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE349472-A2CC-4FEA-89AE-429EF4CE3E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE349472-A2CC-4FEA-89AE-429EF4CE3E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE349472-A2CC-4FEA-89AE-429EF4CE3E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

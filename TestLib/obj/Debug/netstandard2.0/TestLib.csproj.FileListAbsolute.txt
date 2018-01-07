@@ -1,0 +1,8 @@
+D:\Code\Projects\TestApp\TestLib\bin\Debug\netstandard2.0\TestLib.deps.json
+D:\Code\Projects\TestApp\TestLib\bin\Debug\netstandard2.0\TestLib.dll
+D:\Code\Projects\TestApp\TestLib\bin\Debug\netstandard2.0\TestLib.pdb
+D:\Code\Projects\TestApp\TestLib\obj\Debug\netstandard2.0\TestLib.csproj.CoreCompileInputs.cache
+D:\Code\Projects\TestApp\TestLib\obj\Debug\netstandard2.0\TestLib.AssemblyInfoInputs.cache
+D:\Code\Projects\TestApp\TestLib\obj\Debug\netstandard2.0\TestLib.AssemblyInfo.cs
+D:\Code\Projects\TestApp\TestLib\obj\Debug\netstandard2.0\TestLib.dll
+D:\Code\Projects\TestApp\TestLib\obj\Debug\netstandard2.0\TestLib.pdb
